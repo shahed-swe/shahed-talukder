@@ -8,6 +8,7 @@ import Skills from '../components/Skills';
 import Portfolio from '../components/Portfolio';
 import Service from '../components/Services';
 import Education from '../components/Education';
+import Blog from '../components/Blogs';
 
 function Main(){
     useEffect(() => {
@@ -27,6 +28,7 @@ function Main(){
             <Portfolio/>
             <Service/>
             <Education/>
+            <Blog/>
         </div>
     )
 }

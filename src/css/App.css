@@ -749,7 +749,7 @@ svg.svg-inline--fa.fa-laptop-house.fa-w-20 {
 
 .swiper-button-next,
 .swiper-button-prev {
-    color: #ff4a57 !important;
+    color: #00ce76 !important;
 }
 
 .see-all-button {
@@ -787,14 +787,14 @@ svg.svg-inline--fa.fa-laptop-house.fa-w-20 {
     background-color: transparent !important;
     color: #e0e0e0;
     border-radius: 10px;
-    border: 1px solid #ff4a57;
+    border: 1px solid #00ce76;
     width: 150px;
     margin-bottom: 10px;
     transition: all 0.5s ease-in-out;
 }
 
 .main-button:hover {
-    background-color: #ff4a57 !important;
+    background-color: #00ce76 !important;
 }
 
 .main-button:focus {
@@ -857,7 +857,7 @@ p.blockIcon svg.svg-inline--fa.fa-phone-alt.fa-w-16,
 p.blockIcon svg.svg-inline--fa.fa-envelope.fa-w-16 {
     font-size: 2rem;
     margin: 0;
-    color: #ff4a57;
+    color: #00ce76;
 }
 
 .contactForm h3 {
@@ -926,7 +926,7 @@ p.blockIcon svg.svg-inline--fa.fa-envelope.fa-w-16 {
 }
 
 .myName {
-    color: #ff4a57;
+    color: #00ce76;
     font-size: 16px;
     font-weight: 700;
 }
@@ -944,7 +944,7 @@ p.blockIcon svg.svg-inline--fa.fa-envelope.fa-w-16 {
 
 .button {
     background-color: #1f2235;
-    border: 1px solid #ff4a57;
+    border: 1px solid #00ce76;
     color: #fff;
     font-family: "Varela Round", sans-serif;
     font-weight: 400;
