@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="footer-container">
             <Fade bottom>
         <p className='text-center copyRight py-4' >
-            &copy; {new Date().getFullYear()} All Rights Reserve to <a className="myName" href="https://github.com/PriontoAbdullah" rel="noopener noreferrer" target="_blank">Prionto Abdullah</a>
+            &copy; {new Date().getFullYear()} All Rights Reserve to <a className="myName" href="https://github.com/shahed-swe" rel="noopener noreferrer" target="_blank">Shahed Talukder</a>
         </p>
         </Fade>
 
