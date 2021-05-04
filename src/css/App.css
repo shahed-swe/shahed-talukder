@@ -230,7 +230,7 @@ body {
 }
 
 .commonBorder {
-    background: #ff4a57;
+    background: #00ce76;
     height: 3px;
     width: 150px;
     margin: 30px auto;
@@ -238,7 +238,7 @@ body {
 
 .about {
     width: 100%;
-    background: #23263a;
+    background: #1a1e23;
     padding-top: 50px;
 }
 
@@ -296,7 +296,7 @@ body {
     margin: 1.1rem;
     padding: 2rem !important;
     transition: 0.6s ease;
-    background-color: #272a3f;
+    background-color: #31313b;
     border-radius: 10px;
 }
 
@@ -321,7 +321,7 @@ body {
 .singleService:hover svg.svg-inline--fa.fa-laptop-code.fa-w-20,
 .singleService:hover svg.svg-inline--fa.fa-desktop.fa-w-18,
 .singleService:hover svg.svg-inline--fa.fa-laptop-house.fa-w-20 {
-    color: #ff4a57;
+    color: #00ce76;
 }
 
 svg.svg-inline--fa.fa-laptop-code.fa-w-20,
@@ -374,7 +374,7 @@ svg.svg-inline--fa.fa-laptop-house.fa-w-20 {
 .skills-container {
     font-family: "Exo 2", sans-serif;
     color: #fff;
-    background-color: #1f2235;
+    background-color: #1a1e23;
     align-items: center;
     width: 100%;
     min-height: 120vh;
@@ -383,7 +383,7 @@ svg.svg-inline--fa.fa-laptop-house.fa-w-20 {
 }
 
 .skills-container h3 {
-    border: 1px solid #ff4a57;
+    border: 1px solid #00ce76;
     display: inline-block;
     padding: 5px 15px;
     font-size: 22px;
@@ -410,7 +410,7 @@ svg.svg-inline--fa.fa-laptop-house.fa-w-20 {
 .portfolio-container {
     font-family: "Exo 2", sans-serif;
     color: #fff;
-    background-color: #1f2235;
+    background-color: #1a1e23;
     align-items: center;
     width: 100%;
     min-height: 100vh;
@@ -425,7 +425,7 @@ svg.svg-inline--fa.fa-laptop-house.fa-w-20 {
 
 .project-button-container button {
     background-color: transparent !important;
-    color: #ff4a57 !important;
+    color: #00ce76 !important;
     padding: 1% 1%;
     border: 0px;
     border-radius: 0px !important;
@@ -436,12 +436,12 @@ svg.svg-inline--fa.fa-laptop-house.fa-w-20 {
 
 .project-button-container button:focus {
     background-color: transparent;
-    border-bottom: 3px solid #ff4a57;
+    border-bottom: 3px solid #00ce76;
     outline: 0px;
 }
 
 .project-button-container button:hover {
-    border: 1px solid #ff4a57;
+    border: 1px solid #00ce76;
     display: inline-block;
     padding: 5px 15px;
     border-radius: 5px;
@@ -458,7 +458,7 @@ svg.svg-inline--fa.fa-laptop-house.fa-w-20 {
 /* Single Work */
 
 .single-work {
-    background-color: #272a3f !important;
+    background-color: #31313b !important;
     padding: 1%;
     min-height: 480px;
     border-radius: 10px;
@@ -504,12 +504,12 @@ svg.svg-inline--fa.fa-laptop-house.fa-w-20 {
 }
 
 .work-icon:hover {
-    color: #ff4a57;
+    color: #00ce76;
 }
 
 .badge {
     color: #fff !important;
-    background-color: #ff4a57 !important;
+    background-color: #00ce76 !important;
     padding: 0.2em 0.3em;
     margin-left: 5px;
 }
@@ -517,7 +517,7 @@ svg.svg-inline--fa.fa-laptop-house.fa-w-20 {
 .technologies {
     position: relative;
     color: rgba(255, 255, 255, 0.699);
-    border: 1px solid #ff4a56d0;
+    border: 1px solid #00ce76;
     display: inline-block;
     padding: 5px 15px;
     font-size: 14px;
@@ -667,7 +667,7 @@ svg.svg-inline--fa.fa-laptop-house.fa-w-20 {
     width: 1rem;
     height: 1rem;
     z-index: 10;
-    background: #ff4a57;
+    background: #00ce76;
 }
 
 .experienceInfo h4 {
