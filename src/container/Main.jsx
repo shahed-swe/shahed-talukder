@@ -9,6 +9,8 @@ import Portfolio from '../components/Portfolio';
 import Service from '../components/Services';
 import Education from '../components/Education';
 import Blog from '../components/Blogs';
+import Contact from '../components/Contact';
+import Footer from '../components/Footer';
 
 function Main(){
     useEffect(() => {
@@ -29,6 +31,8 @@ function Main(){
             <Service/>
             <Education/>
             <Blog/>
+            <Contact/>
+            <Footer/>
         </div>
     )
 }

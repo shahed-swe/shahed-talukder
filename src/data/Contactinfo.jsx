@@ -8,14 +8,14 @@ const ContactInfo = [
         id: 1,
         icon: faEnvelope,
         name: 'Email',
-        address: 'prionto71@gmail.com',
+        address: 'shahedtalukder51@gmail.com',
     },
 
     {
         id: 2,
         icon: faPhoneAlt,
         name: 'Phone',
-        address: '+8801790626567',
+        address: '+8801762178238',
     },
     {
         id: 3,
